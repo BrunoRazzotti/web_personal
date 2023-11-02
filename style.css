@@ -1,0 +1,15 @@
+h1{
+    color: #07003c;
+    font-size: 32px;
+}
+
+p {
+    color: dodgerblue;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #060512;
+    text-decoration: none;
+}
